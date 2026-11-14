@@ -2,6 +2,12 @@ import streamlit as st
 import joblib
 import pandas as pd
 
+st.set_page_config(
+    page_title="Bank Churners Prediction System with Machine Learning",
+    page_icon="image/logo_bank.png",
+    layout="wide",
+)
+
 # ==========================
 # Import MODEL and ENCODER
 # ==========================
