@@ -32,10 +32,7 @@ Seluruh proses pengerjaan dikelola dengan **Trello Kanban**.
 | Item | Link |
 |------|------|
 | 📋 Trello Board | [Bank Customer Churner Prediction and Analytics Dashboard](https://trello.com/b/udEzHNug/bank-customer-churner-prediction-and-analytics-dashboard) |
-| 🚀 Streamlit App | _(tambahkan link deploy di sini)_ |
-| 📊 Looker Studio Dashboard | _(tambahkan link dashboard di sini)_ |
-| 📑 Presentasi (PPT) | _(opsional: tambahkan link)_ |
-| 💼 Postingan LinkedIn | _(opsional: tambahkan link)_ |
+| 🚀 Streamlit App | _https://bankchurnersprediction.streamlit.app/_ |
 
 ---
 
