@@ -30,7 +30,7 @@ The project is tracked on a Trello Kanban board from planning through final docu
 | Resource | Link |
 |----------|------|
 | 📋 Trello board | [Bank Customer Churner Prediction and Analytics Dashboard](https://trello.com/b/udEzHNug/bank-customer-churner-prediction-and-analytics-dashboard) |
-| 🚀 Live Streamlit app | [Trello Board] (https://bankchurnersprediction.streamlit.app/) |
+| 🚀 Live Streamlit app | [Trello Board](https://bankchurnersprediction.streamlit.app/) |
 
 ---
 
