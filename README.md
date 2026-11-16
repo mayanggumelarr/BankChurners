@@ -182,7 +182,7 @@ Work was planned and tracked on a Trello Kanban board, from planning and EDA thr
 ## 👤 Author
 
 **Mayang Gumelar**
-[GitHub](https://github.com/mayanggumelarr) · [LinkedIn]([#](https://www.linkedin.com/in/mayang-gumelar-8794852a5/))
+[GitHub](https://github.com/mayanggumelarr) · [LinkedIn](https://www.linkedin.com/in/mayang-gumelar-8794852a5/)
 
 <div align="center">
 
